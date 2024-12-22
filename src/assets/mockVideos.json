@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Sample Video 1",
+      "thumbnail": "https://via.placeholder.com/300",
+      "duration": "3:45",
+      "description": "This is a sample video description.",
+      "genre": "Education",
+      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Sample Video 2",
+      "thumbnail": "https://via.placeholder.com/300",
+      "duration": "5:20",
+      "description": "This is another sample video description.",
+      "genre": "Entertainment",
+      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+    }
+  ]
+  

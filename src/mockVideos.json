@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Video 1",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+1",
+    "duration": "3:45",
+    "description": "This is the description for Sample Video 1.",
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "title": "Sample Video 2",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+2",
+    "duration": "5:20",
+    "description": "This is the description for Sample Video 2.",
+    "genre": "Comedy"
+  },
+  {
+    "id": 3,
+    "title": "Sample Video 3",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+3",
+    "duration": "4:15",
+    "description": "This is the description for Sample Video 3.",
+    "genre": "Drama"
+  },
+  {
+    "id": 4,
+    "title": "Sample Video 4",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+4",
+    "duration": "6:30",
+    "description": "This is the description for Sample Video 4.",
+    "genre": "Horror"
+  },
+  {
+    "id": 5,
+    "title": "Sample Video 5",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+5",
+    "duration": "2:50",
+    "description": "This is the description for Sample Video 5.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 6,
+    "title": "Sample Video 6",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Sample+Video+6",
+    "duration": "3:10",
+    "description": "This is the description for Sample Video 6.",
+    "genre": "Romance"
+  }
+]
